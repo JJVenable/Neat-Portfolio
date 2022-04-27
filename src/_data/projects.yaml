@@ -4,11 +4,11 @@ links:
     url: "/greatreads"
     desc:  PERN Stack idea copy of Goodreads
   - title: ToolShed/DjangoShed
-    url: "/null"
+    url: "/ToolShed"
     desc: React App to practice with Django.
   - title: Whose-Ride-Is-It_Anyway
-    url: "/null"
+    url: "/WhoseRide"
     desc: Yelp inspired idea to practice with React, and MongoDB.
   - title: PropertyManagement
-    url: "/null"
+    url: "/PropertyManagement"
     desc: First app created with React.
