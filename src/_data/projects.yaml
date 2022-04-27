@@ -2,13 +2,13 @@
 links:
   - title: GreatReads
     url: "/null"
-    desc:  bla
+    desc:  PERN Stack idea copy of Goodreads
   - title: ToolShed/DjangoShed
     url: "/null"
-    desc: ffsdf.
+    desc: React App to practice with Django.
   - title: Whose-Ride-Is-It_Anyway
     url: "/null"
-    desc: asdf.
+    desc: Yelp inspired idea to practice with React, and MongoDB.
   - title: PropertyManagement
     url: "/null"
-    desc: asdf.
+    desc: First app created with React.
