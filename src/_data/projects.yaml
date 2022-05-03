@@ -6,7 +6,7 @@ links:
   - title: ToolShed/DjangoShed
     url: "/ToolShed"
     desc: React App to practice with Django.
-  - title: Whose-Ride-Is-It_Anyway
+  - title: Whose Ride Is It Anyway
     url: "/WhoseRide"
     desc: Yelp inspired idea to practice with React, and MongoDB.
   - title: PropertyManagement
