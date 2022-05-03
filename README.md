@@ -6,6 +6,7 @@ I had not worked with any of these technologies before, and decided to use a tem
 ## Deployed Link
 
 [https://jjvenable.netlify.app/](https://jjvenable.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b088cf7-508b-4ce6-83b7-68a4db8356af/deploy-status)](https://app.netlify.com/sites/jjvenable/deploys)
 
 ### Technologies used:
 
