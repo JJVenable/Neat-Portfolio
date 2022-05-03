@@ -3,7 +3,7 @@ links:
   - title: GreatReads
     url: "/greatreads"
     desc:  PERN Stack idea copy of Goodreads
-  - title: ToolShed/DjangoShed
+  - title: Tool Shed/ Django Shed
     url: "/ToolShed"
     desc: React App to practice with Django.
   - title: Whose Ride Is It Anyway
